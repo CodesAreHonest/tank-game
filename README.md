@@ -29,11 +29,11 @@ Documentation
 The documentation contains:- 
 1. Guides to compile and run the game
 2. Guides to user the program and play the games
-3. UML Diagram 
-   3.1 Use Case Diagram 
-   3.2 Sequence Diagram 
-   3.3 Class Diagram 
-4. Explaination and description of design pattern used in this project
+3. UML Diagram  
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.1 Use Case Diagram   
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.2 Sequence Diagram  
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.3 Class Diagram  
+4. Explaination and description of design pattern used in this project  
 
 Download the document **[HERE](https://github.com/CodesAreHonest/tank-game/blob/master/doc/tank-game-documentation.pdf).**
 
