@@ -33,9 +33,9 @@ The documentation contains:-
    3.1 Use Case Diagram 
    3.2 Sequence Diagram 
    3.3 Class Diagram 
-4. Explanation and description of design pattern used in this project
+4. Explaination and description of design pattern used in this project
 
-Download the document **[HERE]**(https://github.com/CodesAreHonest/tank-game/blob/master/doc/tank-game-documentation.pdf).
+Download the document **[HERE](https://github.com/CodesAreHonest/tank-game/blob/master/doc/tank-game-documentation.pdf).**
 
 Infrastructure Setup and Installation
 -------------------------------------
@@ -55,8 +55,9 @@ $ javac *.java
 ```sh
 $ java StartPanel
 ```
-<p align="center"><img src="img/compile-run-screenshot.png"/></p> 
-***
+<p align="center"><img src="img/compile-run-screenshot.png"/></p>  
+
+***  
 
 Highlights
 ==========
@@ -81,6 +82,8 @@ Screenshot
 ----------
 The image below is the screenshot of tank game.  
 <p align="center"><img src="img/gameboard-screenshot.png"/></p> 
+
+***  
 
 About
 =====
