@@ -1,6 +1,6 @@
 Tank Game 
 =========
-> Single player game build with Java object-oriented concepts, multi-threading, design patterns and MVC. Allow player to destroy enemy by shooting, save, load and replay the game. 
+> Single player game build with Java **object-oriented concepts, multi-threading, design patterns and MVC pattern**. Allow player to destroy enemy by shooting, save, load and replay the game. 
 
 ***
 
