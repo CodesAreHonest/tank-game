@@ -89,9 +89,7 @@ About
 =====
 Contributor
 -----------
-- **Chai Ying Hua**  
-- **Shubar, Abduelhakem G Abdusalam**  
-- **Ramadhan Ali**   
+- **Chai Ying Hua**   
 
 Status
 ------
